@@ -22,7 +22,7 @@
 #- steps - gerar artefatos de aplicacao
 #- steps - publica a aplicacao em algum ambiente
 
-name: 'Execuçao Integrada'
+name: 'Execucao Integrada'
 
 on: workflow_dispatch
 
